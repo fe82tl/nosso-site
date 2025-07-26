@@ -5,6 +5,27 @@ body{
 }
 
 .titulo{
-    font-size: 0.8rem;
+    font-size: 2rem;
+    text-align: center;
+    }
 
+header{
+    text-align: center;
+}
+
+header ul{
+    /* display: flex; */
+    gap: 20px;
+    
+}
+
+header a{
+    font-size: 1.5rem;
+    
+}
+
+header li{
+    display: inline;
+    
+    
 }
